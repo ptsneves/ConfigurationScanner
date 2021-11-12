@@ -1,0 +1,10 @@
+{
+  "ConfigurationScanner": {
+    "Token": "@@TOKEN@@"
+  },
+  "user": "Me",
+  "password": "@@TOKEN@@",
+  "ExtraConf": {
+    "extra_thing": "@@TOKEN@@"
+  }
+}

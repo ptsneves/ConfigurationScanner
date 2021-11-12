@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationScanner", "ConfigurationScanner\ConfigurationScanner.csproj", "{67DFAFEA-7A9F-4157-BD49-1850E095390C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{00CE751C-BE6B-4FCD-B477-F5D1FC7ED298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67DFAFEA-7A9F-4157-BD49-1850E095390C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DFAFEA-7A9F-4157-BD49-1850E095390C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DFAFEA-7A9F-4157-BD49-1850E095390C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DFAFEA-7A9F-4157-BD49-1850E095390C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CE751C-BE6B-4FCD-B477-F5D1FC7ED298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CE751C-BE6B-4FCD-B477-F5D1FC7ED298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CE751C-BE6B-4FCD-B477-F5D1FC7ED298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CE751C-BE6B-4FCD-B477-F5D1FC7ED298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

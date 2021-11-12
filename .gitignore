@@ -1,0 +1,6 @@
+bin/
+obj/
+Tests/obj
+Tests/bin
+.idea/
+ConfigurationScanner.sln.DotSettings.user
